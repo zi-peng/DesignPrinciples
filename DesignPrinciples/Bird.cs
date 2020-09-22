@@ -5,7 +5,7 @@ using System.Text;
 namespace DesignPrinciples
 {
     /// <summary>
-    /// 鸟类的父类(鸟类)
+    /// 鸟类的父类(鸟类)1
     /// </summary>
     public class Bird: Animal
     {
